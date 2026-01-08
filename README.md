@@ -1,6 +1,6 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/big-data-europe/Lobby)
 
-# see queryresults folder with attached screenshots and exported queries
+# see queryResultsExported folder with attached screenshots and exported queries
 
 # docker-hive
 
