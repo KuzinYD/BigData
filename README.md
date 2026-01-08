@@ -1,5 +1,7 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/big-data-europe/Lobby)
 
+# see queryresults folder with attached screenshots and exported queries
+
 # docker-hive
 
 Forked from https://github.com/big-data-europe/docker-hive
